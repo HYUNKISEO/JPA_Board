@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Bt01_DI_Bean" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Bt01_DI_Bean" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Bt09_MVC" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Bt09_MVC" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Bt15_MyBatis" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Bt15_MyBatis" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Bt16_JPA_CRUD" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Bt16_JPA_CRUD" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Bt17_JPA" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Bt17_JPA" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Bt50_Board" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Bt50_Board" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Bt62_JPA_Board" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Bt62_JPA_Board" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
